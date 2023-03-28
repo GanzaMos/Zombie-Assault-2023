@@ -699,11 +699,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: af2cff2a-c648-4c1c-9f9f-b811333cc7ef
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: 5 Zombie Assault
+  organizationId: unity_8ei01xkwsfjdlq
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
